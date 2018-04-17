@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>评论区制作</title>
+    <link rel="stylesheet" href="assets/css/comment.css">
+</head>
+<p style="font-size: 28px; font-weight: 700">
+    Feedback
+</p>
+<body>
+    <div class="g-container" id="box"></div>
+    <script src="assets/js/jquery-1.7.1.min.js"></script>
+    <script src="assets/js/jquery.cookie.js"></script>
+    <script src="assets/js/pager.js"></script>
+    <script src="assets/js/comment.js"></script>
+    <script>
+        $(function(){
+            Comment.allocate({
+                parent: $('#box'),
+                id: 0,
+                getCmtUrl: './assets/php/getcomment.php',
+                setCmtUrl: './assets/php/comment.php'
+            })
+        });
+
+    </script>
+</body>
+</html>
+
+
+
+
+
+<a href="./index" style="font-size: 16px;color:#267CB9">Back</a>
+
+
+
+
+
+
+
