@@ -3,7 +3,10 @@ layout: default
 ---
 
 # Reading Group 顺序安排
-顺序安排原则上以自愿为主，希望大家能够积极参与，积极准备。下方表格给大家自由挑选时间填写：
+顺序安排原则上以自愿为主，希望大家能够积极参与，积极准备。
+<br>
+
+*以下时间及内容只做参考*
 
 <table border="1">
 <tr>
@@ -22,24 +25,9 @@ layout: default
   <td>GANs, 无人机识别</td>
 </tr>
 <tr>
-  <td contentEditable="true"> </td>
-  <td contentEditable="true"> </td>
-  <td contentEditable="true"> </td>
-</tr>
-<tr>
-  <td contentEditable="true"> </td>
-  <td contentEditable="true"> </td>
-  <td contentEditable="true"> </td>
-</tr>
-<tr>
-  <td contentEditable="true"> </td>
-  <td contentEditable="true"> </td>
-  <td contentEditable="true"> </td>
-</tr>
-<tr>
-  <td contentEditable="true"> </td>
-  <td contentEditable="true"> </td>
-  <td contentEditable="true"> </td>
+  <td>5.3</td>
+  <td>周航，程灏，刘西宁</td>
+  <td>深度学习网络结构</td>
 </tr>
 </table>
 
