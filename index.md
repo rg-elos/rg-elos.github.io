@@ -17,13 +17,25 @@ layout: default
 <b>Important Notice</b>
 </p>
 
-<img style="width: 32px; height: 14px;" src="assets/img/new.jpg"> 下次Reading Group由于组会推迟，向后延期一次。时间为5.3号。
+<ul>
+<li style="list-style-image: url(assets/img/new.jpg)"> <a style="color:red">5月3日</a> Reading Group将于晚上7点举行，请大家准时参加。</li>
+<br>
+<li style="list-style-image: url(assets/img/new.jpg)"> 恭喜王璟璟同学和田明同学即将顺利毕业，感谢两位大大的支持和分享。</li>
+</ul>
+
 
 ---
 
 
 # Archive
 这里展示了历次Reading Group的讲解资料以及每次记录员所做的问题总结存档，以供大家参考。
+
+<p style="font-size:16pt;color:black"> <b style="color:red">2018.5.3</b>
+</p>
+
+\# 基于CNN的常用网络框架模型介绍 -- 刘西宁 [[文档]](/assets/file/20180503/liuxining.pdf) <br>
+\# CSK跟踪原理介绍 -- 程灏 [[文档]](/assets/file/20180503/chenghao.pdf) <br>
+\# 实施目标检测算法YOLO讲解 -- 周航 [[文档]](/assets/file/20180503/zhouhang.pdf)
 
 <p style="font-size:16pt;color:black"> <b style="color:red">2018.4.12</b>
 </p>
