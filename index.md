@@ -33,7 +33,7 @@ layout: default
 </p>
 
 \# 实时目标检测算法YOLO讲解 -- 周航 [[文档]](/assets/file/20180517/zhouhang.pdf)<br>
-\# 相关滤波，VOT和目标跟踪讲解 -- 郭正奎 <b>[文档稍后上传]</b>
+\# 相关滤波，VOT和目标跟踪讲解 -- 郭正奎 [[文档]](/assets/file/20180517/guozhengkui.pdf)
 
 <p style="font-size:16pt;color:black"> <b style="color:red">2018.5.3</b>
 </p>
