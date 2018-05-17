@@ -18,9 +18,9 @@ layout: default
 </p>
 
 <ul>
-<li style="list-style-image: url(assets/img/new.jpg)"> <a style="color:red">5月3日</a> Reading Group将于晚上7点举行，请大家准时参加。</li>
+<li style="list-style-image: url(assets/img/new.jpg)"> <a style="color:red">5月17日</a> Reading Group将于周四晚7点举行，请大家准时参加。</li>
 <br>
-<li style="list-style-image: url(assets/img/new.jpg)"> 恭喜王璟璟同学和田明同学即将顺利毕业，感谢两位大大的支持和分享。</li>
+<li style="list-style-image: url(assets/img/new.jpg)"> 再次恭喜王璟璟同学和田明同学即将顺利毕业，再次感谢两位大大的支持和分享。</li>
 </ul>
 
 
@@ -29,13 +29,17 @@ layout: default
 
 # Archive
 这里展示了历次Reading Group的讲解资料以及每次记录员所做的问题总结存档，以供大家参考。
+<p style="font-size:16pt;color:black"> <b style="color:red">2018.5.17</b>
+</p>
+
+\# 实时目标检测算法YOLO讲解 -- 周航 [[文档]](/assets/file/20180517/zhouhang.pdf)
+\# 相关滤波，VOT和目标跟踪讲解 -- 郭正奎 <b>[文档稍后上传]</b>
 
 <p style="font-size:16pt;color:black"> <b style="color:red">2018.5.3</b>
 </p>
 
 \# 基于CNN的常用网络框架模型介绍 -- 刘西宁 [[文档]](/assets/file/20180503/liuxining.pdf) <br>
 \# CSK跟踪原理介绍 -- 程灏 [[文档]](/assets/file/20180503/chenghao.pdf) <br>
-\# 实施目标检测算法YOLO讲解 -- 周航 [[文档]](/assets/file/20180503/zhouhang.pdf)
 
 <p style="font-size:16pt;color:black"> <b style="color:red">2018.4.12</b>
 </p>
